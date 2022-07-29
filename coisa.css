@@ -19,3 +19,22 @@ background-color: rgba(255,20,147);
    font-size: 20px;
    color: rgb(255, 0, 0);
  }
+.caixa1 {
+  background: blue;
+  width: 200px;
+  height: 200px;
+  left: 40%;
+right: 54%;
+  bottom: 0;
+}
+.caixa2 {
+  position: absolute;
+  background: red;
+  color: #ffffff;
+  width: 200px;
+  height: 200px;
+width: 200px;
+
+right: 54%;
+  bottom: 0;
+}
